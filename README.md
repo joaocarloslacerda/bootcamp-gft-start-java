@@ -1,7 +1,7 @@
 # Bootcamp da GFT sobre java 
 Repositório para armazenar informações vistas durante as aulas
 
-## Cada tópico está localizado em uma pasta separada com os seguintes nomes:
+## As informações estão localizadas em uma pasta separada para cada tópico com os seguintes nomes:
 
 	* Lógica de Programação Essencial
 	* Aprenda o que são Estrutura de Dados e Algoritmos
